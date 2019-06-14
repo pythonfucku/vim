@@ -1,4 +1,6 @@
-"git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+"TODO：
+"1.git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+"2.在https://github.com/powerline/fonts下载使用powerline打过补丁的字体，里面也有安装方法。下载字体后，Linux系统上直接执行 ./install.sh 文件来安装字体（注意当前工作目录）
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Vundle
