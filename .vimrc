@@ -113,6 +113,9 @@ set hlsearch
 "解决菜单乱码
 language messages zh_CN.utf-8
 
+"对齐线
+map <leader>il :IndentLinesToggle<CR>
+
 
 "打开文件类型检测功能
 filetype on
