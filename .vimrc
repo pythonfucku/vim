@@ -210,8 +210,8 @@ let g:DoxygenToolkit_maxFunctionProtoLines = 30
 nmap <F1> :Dox<cr>
 
 "自动添加作者
-let g:vimrc_author='LiangRentao'
-let g:vimrc_email='Rentao.Liang@bmw-brilliance.cn'
+let g:vimrc_author=''
+let g:vimrc_email=''
 let g:vimrc_homepage='@_@"'
 nmap <F2> :AuthorInfoDetect<cr>
 
